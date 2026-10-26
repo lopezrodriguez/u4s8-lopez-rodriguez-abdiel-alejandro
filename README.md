@@ -1,15 +1,15 @@
 <!-- título del repo: cambia por tus nombres reales -->
-# U4S8 — [Apellido Paterno] [Apellido Materno] [Nombre(s)]
+# U4S8 — Lopez Rodriguez Abdiel Alejandro
 
 <!-- sección con la URL pública de Render -->
 ## Demo en vivo (producción)
 <!-- tu dirección real de Render de esta práctica -->
-https://u4s8-hernandez-nunez-maria-jose.onrender.com
+https://u4s8-lopez-rodriguez-abdiel-alejandro.onrender.com
 
 <!-- sección que explica el proyecto a quien lo visite -->
 ## Qué hace este proyecto
 <!-- reemplaza el texto entre corchetes por tu descripción -->
-[1-2 párrafos describiendo tu vitrina de servicios]
+Lo que hace la vitrina de servicios es basicamente guardar servicios y administrarlos, donde se les puede modificar, eliminar y agregar, ademas de crear nuevos usuarios. 
 
 <!-- sección con las tecnologías usadas -->
 ## Stack técnico
